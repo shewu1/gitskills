@@ -244,7 +244,6 @@ public class CheckHPPRoomJob implements Job {
 			e.printStackTrace();
 		}
 	}
-	add func3
 	public static void main(String[] args) {
 		Session sess = null;
 		Connection conn = null;
